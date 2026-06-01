@@ -1,15 +1,18 @@
-📌 Personal Portfolio — Habib Ur Rehman
 
-Welcome to my Personal Portfolio Website — a modern and responsive frontend developer portfolio showcasing who I am, what I build, and the projects I’m proud of. This site highlights my skills, experience, and selected web projects, all designed and developed with clean UI and best web practices.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandra-glodo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandraglodo05@gmail.com) 
 
-🔗 Live Demo: https://habib277672.github.io/Personal-Portfolio/
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sundae-hue&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sundae-hue&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sundae-hue&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-💻 About This Project:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-This portfolio site is a static, single-page application built for both presentation and practical demonstration of my capabilities in frontend development. It includes:
-About Me — A brief introduction with my professional identity and passion for creativity.
-Projects Showcase — Interactive examples of my work ranging from dynamic apps to static webpages.
-Experience & Education — Timeline of internships and academic background.
-Skills & Tools — Core technologies I use (HTML, CSS, JavaScript, Anime JS, Swiper JS, Git & GitHub).
-Contact Section — Quick links for reaching me professionally.
-This portfolio presents my work in a clear, user-friendly layout that works across devices and screen sizes.
+---
+[![](https://komarev.com/ghpvc/?username=sundae-hue&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
